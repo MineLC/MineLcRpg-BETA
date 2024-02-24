@@ -1,0 +1,4 @@
+name: MinelcRpg
+version: '${project.version}'
+main: minelc.main.MinelcRpg
+api-version: '1.20'

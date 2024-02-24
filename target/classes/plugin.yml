@@ -1,0 +1,4 @@
+name: MinelcRpg
+version: '1.0-SNAPSHOT'
+main: minelc.main.MinelcRpg
+api-version: '1.20'
